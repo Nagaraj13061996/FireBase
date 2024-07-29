@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "398604630249",
+    "firebase_url": "https://fir-login-dbe78-default-rtdb.firebaseio.com",
+    "project_id": "fir-login-dbe78",
+    "storage_bucket": "fir-login-dbe78.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:398604630249:android:7c371f7e75f15437ce9878",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2KAGnS-8LuG-AyVi-GUjohZA4pMk9c6A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
